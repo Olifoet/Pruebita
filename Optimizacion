@@ -1,0 +1,6 @@
+from __future__ import print_function
+import jax.numpy as np # autograd para windows
+import numpy as onp
+import matplotlib.pyplot as plt
+from jax import grad,jit
+import pandas as pd
